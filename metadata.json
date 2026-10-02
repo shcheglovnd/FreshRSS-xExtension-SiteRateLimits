@@ -1,0 +1,8 @@
+{
+	"name": "Site Rate Limits",
+	"author": "shcheglovnd",
+	"description": "Refresh feeds within the rate limits of their sites, e.g. Reddit’s one request per minute: wait for the next allowed request instead of failing with “429 Too Many Requests”, from per-site rules or rate-limit headers.",
+	"version": "0.1.0",
+	"entrypoint": "SiteRateLimits",
+	"type": "system"
+}
